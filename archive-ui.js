@@ -11,6 +11,7 @@
     const img=document.createElement('img');
     img.src='archive/'+item.asset;
     img.alt='Hoangkan visual archive image '+String(item.id).padStart(3,'0');
+    img.width=item.width; img.height=item.height;
     img.loading='lazy'; img.decoding='async';
     const cap=document.createElement('figcaption');
     cap.innerHTML='<span>ARCHIVE / '+String(item.id).padStart(3,'0')+'</span><span>'+item.width+' × '+item.height+'</span>';
