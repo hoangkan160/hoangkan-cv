@@ -1,8 +1,8 @@
 {
   "source": "CV visual archive source set",
-  "generated": "2026-10-05",
-  "count": 90,
-  "note": "Images are presented as a visual archive of design/product work candidates. Non-work personal/reference photography has been removed; project attribution, authorship and rights remain separate verification gates.",
+  "generated": "2026-10-12",
+  "count": 91,
+  "note": "Visual archive of design/product work candidates. Non-work personal/reference photography excluded. CV-SAFE and CANDIDATE labels preserve the existing review status; project attribution, authorship and rights remain separate verification gates.",
   "items": [
     {
       "id": 1,
@@ -903,6 +903,18 @@
       "source_bytes": 1828116,
       "web_bytes": 109962,
       "sha256": "9309e2a210fb2fef7a5616ccb1fd88fda275a7e056acea7b9b462408a73b409a"
+    },
+    {
+      "id": 91,
+      "source": "CV-SAFE/00003_f714ce099e.jpg",
+      "asset": "archive-150-2c788203da6e.jpg",
+      "width": 960,
+      "height": 365,
+      "source_bytes": 60453,
+      "web_bytes": 60453,
+      "sha256": "2c788203da6ef7272879c22a06db89a6517d60bf13a697cadd4726b89c806865",
+      "review_status": "CV-SAFE",
+      "attribution_note": "Visual archive candidate only; authorship, project attribution and rights are not implied and require separate verification."
     }
   ]
-}\n
+}
