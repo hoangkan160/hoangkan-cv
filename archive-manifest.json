@@ -1,7 +1,7 @@
 {
   "source": "CV visual archive source set",
   "generated": "2026-10-12",
-  "count": 91,
+  "count": 97,
   "note": "Visual archive of design/product work candidates. Non-work personal/reference photography excluded. CV-SAFE and CANDIDATE labels preserve the existing review status; project attribution, authorship and rights remain separate verification gates.",
   "items": [
     {
@@ -914,6 +914,78 @@
       "web_bytes": 60453,
       "sha256": "2c788203da6ef7272879c22a06db89a6517d60bf13a697cadd4726b89c806865",
       "review_status": "CV-SAFE",
+      "attribution_note": "Visual archive candidate only; authorship, project attribution and rights are not implied and require separate verification."
+    },
+    {
+      "id": 92,
+      "source": "CANDIDATE/00022_393d9ae1c7.jpg",
+      "asset": "archive-151-16da7e9f62c3.jpg",
+      "width": 394,
+      "height": 204,
+      "source_bytes": 19363,
+      "web_bytes": 19363,
+      "sha256": "16da7e9f62c3e81f859e1685c706a9522c72690f28251657a012637f69d0e74f",
+      "review_status": "CANDIDATE",
+      "attribution_note": "Visual archive candidate only; authorship, project attribution and rights are not implied and require separate verification."
+    },
+    {
+      "id": 93,
+      "source": "CANDIDATE/00023_0cfe3e858b.jpg",
+      "asset": "archive-152-4808bd470ea4.jpg",
+      "width": 275,
+      "height": 206,
+      "source_bytes": 13480,
+      "web_bytes": 13480,
+      "sha256": "4808bd470ea48982104c7522b8cb2deefad956beb7bf79a45a2b8994b56e2fc1",
+      "review_status": "CANDIDATE",
+      "attribution_note": "Visual archive candidate only; authorship, project attribution and rights are not implied and require separate verification."
+    },
+    {
+      "id": 94,
+      "source": "CANDIDATE/00024_9567da8e71.jpg",
+      "asset": "archive-153-a38b6b8dd13c.jpg",
+      "width": 206,
+      "height": 275,
+      "source_bytes": 10906,
+      "web_bytes": 10906,
+      "sha256": "a38b6b8dd13c4fcfbfd4e7a3916010ca5d838f35badb1a69c38dbf38832cf8e8",
+      "review_status": "CANDIDATE",
+      "attribution_note": "Visual archive candidate only; authorship, project attribution and rights are not implied and require separate verification."
+    },
+    {
+      "id": 95,
+      "source": "CANDIDATE/00029_769bfe18b2.jpg",
+      "asset": "archive-154-b2474e68d91f.jpg",
+      "width": 206,
+      "height": 287,
+      "source_bytes": 13568,
+      "web_bytes": 13568,
+      "sha256": "b2474e68d91f13beb69285ac7c66a1d13445cf0afeb696c548b015f8dda563de",
+      "review_status": "CANDIDATE",
+      "attribution_note": "Visual archive candidate only; authorship, project attribution and rights are not implied and require separate verification."
+    },
+    {
+      "id": 96,
+      "source": "CANDIDATE/00030_1a34739dec.jpg",
+      "asset": "archive-155-62b435ba7fdf.jpg",
+      "width": 206,
+      "height": 275,
+      "source_bytes": 19762,
+      "web_bytes": 19762,
+      "sha256": "62b435ba7fdf061a332a32af0681cd622507d1a653d502dfbea76f95df78a536",
+      "review_status": "CANDIDATE",
+      "attribution_note": "Visual archive candidate only; authorship, project attribution and rights are not implied and require separate verification."
+    },
+    {
+      "id": 97,
+      "source": "CANDIDATE/00039_8bd132dc5b.webp",
+      "asset": "archive-156-f25aefab3848.webp",
+      "width": null,
+      "height": null,
+      "source_bytes": 42222,
+      "web_bytes": 42222,
+      "sha256": "f25aefab384898c8cf12c0faf4bd81cd9c8e82e036f40a4d6dac2430e9d581a8",
+      "review_status": "CANDIDATE",
       "attribution_note": "Visual archive candidate only; authorship, project attribution and rights are not implied and require separate verification."
     }
   ]
